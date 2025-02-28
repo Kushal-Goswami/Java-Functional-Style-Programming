@@ -74,6 +74,8 @@ public class SortEmployees {
     }
 }
 
+//Traditional way
+
 class SortEmployeesAsc implements Comparator<Employee>
 {
 
